@@ -14,22 +14,22 @@ Este repositorio contiene los entregables correspondientes a la Actividad 1. El 
 
 El laboratorio consta de 4 notebooks principales ubicados en la carpeta `notebooks`:
 
-### 1. [Notebooks/01_Fundamentos_NumPy_Pandas.ipynb)
+### 1. [Fundamentos de NumPy y Pandas](Notebooks/01_Fundamentos_NumPy_Pandas.ipynb)
 * **Objetivo:** Manipulación de estructuras de datos y análisis exploratorio.
 * **Datasets:** Titanic (análisis de supervivencia) y generación de datos sintéticos.
 * **Librerías:** `numpy`, `pandas`.
 
-### 2. [Notebooks/02_Visualizacion_Datos.ipynb)
+### 2. [Visualizacion de Datos](Notebooks/02_Visualizacion_Datos.ipynb)
 * **Objetivo:** Creación de gráficos estáticos, estadísticos e interactivos.
 * **Datasets:** Iris y Titanic.
 * **Librerías:** `matplotlib`, `seaborn`, `plotly`.
 
-### 3. [Notebooks/03_Machine_Learning_Basico.ipynb)
+### 3. [Machine Learning Basico](Notebooks/03_Machine_Learning_Basico.ipynb)
 * **Objetivo:** Implementación de modelos de Clasificación y Regresión.
 * **Datasets:** Iris (Clasificación) y Boston Housing (Regresión sintética).
 * **Modelos:** Regresión Logística, KNN, Árboles de Decisión.
 
-### 4. [Notebooks/04_Deep_Learning_Intro.ipynb)
+### 4. [Introduccion a Deep Learning](Notebooks/04_Deep_Learning_Intro.ipynb)
 * **Objetivo:** Construcción de una red neuronal simple.
 * **Framework:** TensorFlow / Keras.
 
