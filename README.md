@@ -2,9 +2,14 @@
 
 **Asignatura:** Inteligencia Artificial  
 **Institución:** Universidad de Especialidades Espíritu Santo (UEES)  
-**Integrantes:** Erick Rivas / Israel Romero / Liz Castillo / Pablo Castro
-**Semana:** 1
-**Profesor:** PhD. Gladys Villegas
+**Profesor:** PhD. Gladys Villegas 
+
+**Integrantes:** Erick Rivas / 
+Israel Romero / 
+Liz Castillo / 
+Pablo Castro
+
+
 ---
 
 ## 📋 Descripción
